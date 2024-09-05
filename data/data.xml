@@ -5,6 +5,6 @@
     </student>
     <student name="Jane">
         <subject name="Math" score="95" />
-        <subject name="English" score="80" />
+        <subject name="English" score="75" />
     </student>
 </students>
